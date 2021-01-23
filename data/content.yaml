@@ -1,0 +1,165 @@
+BasicInfo:
+  FirstName: Pablo Martin
+  LastName: Viva
+  Photo: img/avatar.jpg
+  Contacts:
+    - Icon: fas fa-phone
+      Info: +54 911 6186 2931
+    - Icon: fas fa-envelope
+      Info: pmviva@gmail.com
+    - Icon: fab fa-github
+      Info: https://github.com/pmviva/
+    - Icon: fas fa-map-marker-alt
+      Info: Buenos Aires, Argentina
+
+Profile: >
+  I'm a Lead Fullstack Engineer / Software architect since 15+ years.
+  Having worked in several successfull projects over the last decade, allowed me to accquire a wide range of both soft skills as well as technical skills, that I was able to apply successfully.
+  I'm a responsible, dynamic, enterprising and emphatic person, motivated in solving real problems, for real customers in order to bring value to them.
+  My background primarily is Java 8+, Spring Boot, NodeJS, Rest APIs for the backend while using Angular 4+ and VueJS for the frontend.
+
+Experience:
+  - Employer: BBVA
+    Place: Buenos Aires
+    Positions:
+      - Title: Software Architect
+        Date: Nov 2020 - Present
+        Details:
+          - Cultural Transformation - Agile embassador promoting agile culture
+          - Integration of New Technologies - Rewritting build pipeline of projects and libraries
+          - MODO Digital Wallet - Defining the microservice architecture / Rest APIs
+          - MODO Digital Wallet - Developing integration services
+          - MODO Digital Wallet - Training the development team
+          - RENAPER - Defining the microservice architecture / Rest APIs
+          - RENAPER - Developing integration services
+          - RENAPER - Training junior developers
+        Badges: ['Java', 'Spring Boot', 'Rest API', "Maven", "Jenkins"]
+      - Title: Lead Fullstack Developer
+        Date: Oct 2016 - Nov 2020
+        Details:
+          - Cultural Transformation - Agile embassador promoting agile culture
+          - Integration of New Technologies - Rewritting build pipeline of projects and libraries
+          - Risk Evaluation Engine - Leading the development team
+          - Risk Evaluation Engine - Promoting best development practices
+          - Risk Evaluation Engine - Defining microservice architecture / Rest APIs
+          - Risk Evaluation Engine - Training junior developers
+          - YPF - Leading the development team
+          - YPF - Promoting best development practices
+          - YPF - Training junior developers
+          - BCRA - Developing integration services
+          - BCRA - Developing admin console frontend using VueJS
+          - MonitorIP - Developing integration services
+          - MonitorIP - Developing admin console using Angular
+        Badges: ['Java', 'Spring Boot', 'Hibernate', 'Rest API', 'Bootstrap', "Angular", "VueJS", "Maven", "Jenkins"]
+      - Title: Fullstack Developer
+        Date: Aug 2012 - Oct 2016
+        Details:
+          - COELSA - Developing notification services for DEBINs
+          - BBVA GO - Developing integration services / Rest APIs
+          - PAGOFACIL | RAPIPAGO - Defining the service architecture / SOA
+          - PAGOFACIL | RAPIPAGO - Developing integration services
+          - PAGOFACIL | RAPIPAGO - Managing interactions with external companies
+        Badges: ['Java 7', 'Spring Boot', 'Hibernate', 'Rest API', "Maven"]
+  - Employer: BOLDT
+    Place: Buenos Aires
+    Positions:
+      - Title: Java Engineer
+        Date: Sep 2010 - Aug 2012
+        Details:
+          - SACIT - Developing the traffic ticket module
+          - SACIT - Developing integration services
+        Badges: ['Java 5', 'Spring', 'Hibernate', 'Maven', 'CSS']
+  - Employer: VERIZON
+    Place: Buenos Aires
+    Positions:
+      - Title: Java Engineer
+        Date: Oct 2008 - Sep 2010
+        Details:
+          - Portals - Developing ordering user interface
+          - Portals - Developing integration services
+        Badges: ['Java 5', 'Struts', 'Oracle', 'Ant']
+  - Employer: GLOBANT / GOOGLE
+    Place: Buenos Aires
+    Positions:
+      - Title: Automated Test Engineer
+        Date: Sep 2006 - Oct 2008
+        Details:
+          - Google Malbec - Unit testing Google Checkout API
+          - Google Moneta - Unit testing the Moneta Billing Console
+        Badges: ['Java 5', 'Spring', 'Maven', 'Selenium', "TestNG"]
+
+Education:
+  - Course: Bachelor Degree in System Analysis
+    Place: UBA
+    Date: Mar 2003 - Present
+    Details: Computer Science
+  - Course: Specialized Global API Designer
+    Place: BBVA
+    Date: Sep 2020 - Sep 2020
+    Details: Computer Science
+  - Course: Angular - The Complete Guide
+    Place: Udemy
+    Date: Jan 2020 - Jan 2020
+    Details: Computer Science
+  - Course: Vue JS 2 - The Complete Guide
+    Place: Udemy
+    Date: Jan 2018 - Jan 2018
+    Details: Computer Science
+  - Course: Advanced CSS and SASS
+    Place: Udemy
+    Date: Jan 2018 - Jan 2018
+    Details: Computer Science
+
+Skills:
+  - Family: Programming
+    Items:
+      - Java 8+
+      - Scala
+      - Ruby
+      - NodeJS
+      - GraphQL
+      - Rest API
+      - Typescript
+      - Javascript
+      - CSS
+      - SASS
+      - HTML
+  - Family: Frameworks
+    Items:
+      - Spring Boot
+      - Hibernate
+      - Angular 4+
+      - NGRX
+      - VueJS
+      - Vuex
+      - Ruby on Rails
+  - Family: Developer Tools
+    Items:
+      - Git
+      - Maven
+      - Jenkins
+      - Firebase
+      - Bash
+  - Family: Methodologies
+    Items:
+      - Scrum
+
+Languages:
+  - Name: Spanish
+    Level: Native
+  - Name: English
+    Level: C2
+  - Name: Italian
+    Level: A2
+
+Diplomas:
+  - Certified Scrum Master (2010)
+  - Engish - FCE (2004)
+
+Interests:
+  - Music
+  - Reading
+  - Travelling
+  - Development
+  - Design
+  - Languages

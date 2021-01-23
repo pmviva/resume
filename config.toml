@@ -1,0 +1,18 @@
+# Hugo site configuration file
+
+baseURL                        = "http://pmviva.github.io/resume/"
+defaultContentLanguage         = "en"
+defaultContentLanguageInSubdir = true
+languageCode                   = "en"
+theme                          = "almeida-cv"
+title                          = "Pablo Martin Viva | Resume"
+
+[params]
+  colorDark                    = "#666"
+  colorLight                   = "#fff"
+  colorPageBackground          = "#ddd"
+  colorPrimary                 = "#00796b"
+  colorPrimaryText             = "#fff"
+  colorRightColumnBackground   = "#f5f5f5"
+  colorSecondary               = "#aaa"
+  pages                        = 2

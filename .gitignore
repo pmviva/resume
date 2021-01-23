@@ -1,0 +1,7 @@
+# Gitignore configuration file
+
+# Build directories and files
+public
+
+# Node directories and files
+node_modules
